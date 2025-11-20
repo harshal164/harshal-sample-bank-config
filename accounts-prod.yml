@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related production APIs with bus refresh using rabbitMQ"
   contactDetails:
     name: "Harshal Patel - Product Owner"
     email: "{cipher}e7b41fd4a6865904dba6ca8b25963390e8481d7970a976bc239ec2b23f7f8534a22b524197cf60ef7de4ac16844a2147"
