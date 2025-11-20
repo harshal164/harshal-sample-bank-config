@@ -2,8 +2,8 @@
 build:
   version: "1.0"
 
-accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs "
+loans:
+  message: "Welcome to EazyBank loans related Prod APIs "
   contactDetails:
     name: "Harshal Patel - Product Owner"
     email: "harshal@eazybank.com"
