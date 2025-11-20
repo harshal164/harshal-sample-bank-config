@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related production APIs  with web hook"
+  message: "Welcome to EazyBank cards related production APIs  in container"
   contactDetails:
     name: "Harshal Patel - Product Owner"
     email: "harshal@eazybank.com"
